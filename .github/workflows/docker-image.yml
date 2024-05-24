@@ -27,4 +27,4 @@ jobs:
         provenance: true
         sbom: true          
         push: true
-        tags: "${{ secrets.ACR_URL }}/SSSC/Tutorial:latest"
+        tags: "${{ secrets.ACR_URL }}/sssc/tutorial:latest"
