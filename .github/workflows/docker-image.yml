@@ -16,4 +16,4 @@ jobs:
       uses: docker/build-push-action@v5.3.0
       with:
         provenance: true
-        sbom: false          
+        sbom: true          
