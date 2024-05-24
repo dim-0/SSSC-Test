@@ -27,3 +27,4 @@ jobs:
         provenance: true
         sbom: true          
         push: true
+        tags: latest
